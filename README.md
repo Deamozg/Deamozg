@@ -2,7 +2,7 @@
 - 👀 I’m interested in Subnautica Modding!
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on modding :D
-- 📫 How to reach me discord! (deamoz)
+- 📫 You can reach me on discord! (deamoz)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im also a sound designer 
 
